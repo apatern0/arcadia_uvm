@@ -1,0 +1,6 @@
+`include "uvm/tests/base.sv"
+`include "uvm/tests/randomized.sv"
+`include "uvm/tests/simple.sv"
+`include "uvm/tests/full.sv"
+`include "uvm/tests/real_data.sv"
+`include "uvm/tests/space.sv"
